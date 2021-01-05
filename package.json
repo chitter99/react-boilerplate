@@ -21,7 +21,7 @@
   "homepage": "https://github.com/chitter99/react-boilerplate#readme",
   "dependencies": {
     "@types/react": "^16.9.23",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "grommet": "^2.11.1",
     "grommet-icons": "^4.4.0",
     "react": "^16.13.0",
